@@ -10,3 +10,5 @@ My first repository
 04. Number 03 seemed failed. It commited by Ivan instead of by Fathira. Now, this is going to be commited from web by Fathira.
 
 05. Let's try again from Fathira's desktop
+
+06. Now Fathira has changed the git config file to refer to her name.
