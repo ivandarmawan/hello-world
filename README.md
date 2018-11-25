@@ -1,4 +1,6 @@
 # hello-world
 My first repository
 
-I have created the first branch. Awesome, right?
+01. I have created the first branch. Awesome, right?
+
+02. Modify from local repository
