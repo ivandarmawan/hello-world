@@ -11,4 +11,6 @@ My first repository
 
 05. Let's try again from Fathira's desktop
 
-06. Let see how this conflict will be handled.
+06. Now Fathira has changed the git config file to refer to her name.
+
+07. Let see how this conflict will be handled.
