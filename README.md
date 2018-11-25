@@ -8,3 +8,5 @@ My first repository
 03. Modify from local repository by Fathira Phadina
 
 04. Number 03 seemed failed. It commited by Ivan instead of by Fathira. Now, this is going to be commited from web by Fathira.
+
+05. Let's try again from Fathira's desktop
